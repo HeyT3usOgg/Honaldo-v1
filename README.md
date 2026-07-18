@@ -34,4 +34,4 @@ Chatbot criado por zueira, ele não é um assiste virtual para facilitar sua vid
 2. Instale as dependências: `pip install customtkinter pygame pillow`
 3. Execute o arquivo principal: `python chat.py`
 
-## Esse é o meu primeiro projeto, então se tiver algum erro por favor relevem.
+### Esse é o meu primeiro projeto, então se tiver algum erro por favor relevem.
