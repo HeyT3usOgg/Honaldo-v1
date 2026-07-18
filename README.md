@@ -1,6 +1,6 @@
-# Projeto brasileiro
+# Honaldo v1
 
--- Honaldo v1
+### Projeto feito em português
 
 O melhor chatbot para não te ensinar nada!
 
