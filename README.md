@@ -1,6 +1,6 @@
 # Projeto brasileiro
 
--- Honaldo v1
+-- Honaldo v2
 
 O melhor chatbot para não te ensinar nada!
 
