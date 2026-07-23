@@ -13,6 +13,12 @@ Chatbot criado por zueira, ele não é um assiste virtual para facilitar sua vid
 **Sistema de Mídia:** Reage a comandos específicos com imagens
 **Humor Ruim:** Contem frases de humor totalmente ruim (Não foi pensado em diminuir ou atacar)
 
+# V2
+
+- foi aicionado um novo gui
+- mais algumas falas
+- e uma nova musica
+
 -- O que foi utilizado?
 
 * Python 3
