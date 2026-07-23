@@ -1,6 +1,6 @@
-# Honaldo v1
+# Projeto brasileiro
 
-### Projeto feito em português
+-- Honaldo v1
 
 O melhor chatbot para não te ensinar nada!
 
@@ -25,7 +25,7 @@ Chatbot criado por zueira, ele não é um assiste virtual para facilitar sua vid
 1. Vá na seção Releases (Lançamentos) no canto direito da página.
 2. Baixe o arquivo correspondente ao seu sistema operacional:
    * Windows: Baixe o arquivo `.exe` e dê dois cliques.
-   * Linux: Baixe o arquivo executável. Antes de abrir, clique com o botão direito nele, vá em Propriedades e marque a opção "Permitir a execução do arquivo como um programa" (ou rode `chmod +x HonaldoV1_linux` no terminal). Depois, é só executar.
+   * Linux: Baixe o arquivo executável. Antes de abrir, clique com o botão direito nele, vá em Propriedades e marque a opção "Permitir a execução do arquivo como um programa" (ou rode `chmod +x honaldo` no terminal). Depois, é só executar.
 3. Divirta-se sendo julgado pelo Honaldo!
 
 -- Se você quiser ver o codigo é só fazer isso:
@@ -34,4 +34,4 @@ Chatbot criado por zueira, ele não é um assiste virtual para facilitar sua vid
 2. Instale as dependências: `pip install customtkinter pygame pillow`
 3. Execute o arquivo principal: `python chat.py`
 
-### Esse é o meu primeiro projeto, então se tiver algum erro por favor relevem.
+## Esse é o meu primeiro projeto, então se tiver algum erro por favor relevem.
